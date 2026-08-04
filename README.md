@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/series-banner.png" alt="Cloud with Tanweer Banner" width="100%">
+</p>
 # ☁️ Cloud with Tanweer
 
 Welcome to the official GitHub repository for the **Cloud with Tanweer** publication.
